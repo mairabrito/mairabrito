@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/maira-brito-927b33234"><i>Maíra</i></a>✨</h1>
   <p align="center">Vamos codar juntos?! 🚀</p>
-0
+
 <div align="center">
   <a href="https://github.com/mairabrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mairabrito&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
