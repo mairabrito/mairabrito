@@ -2,12 +2,6 @@
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/maira-brito-927b33234"><i>Maíra</i></a>✨</h1>
   <p align="center">Vamos codar juntos?! 🚀</p>
 
-<div align="center">
-  <a href="https://github.com/mairabrito">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mairabrito&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairabrito&theme=radical&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
